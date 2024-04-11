@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: ""
+        default: "https://ucf2ea342ba09aeb591495344064.dl.dropboxusercontent.com/cd/0/get/CQyEbWX5Qp42Gxs4c3aPrEOGgNPIdVT6uln91kV4ZfI_wTRz608GVEkoErUrTn12KPLAy4vn3WVb3QoOoXT3-qm7UcRCP3rHcxduUR_3K68hVMCPRk8FJk_fP1yl9KbOUwHQpcVOwS1jYbAq2-NPKl1uAiC4bgkRpGoXItHj2oV0MQ/file#"
         required: true
         type: string
       bundle_id:
